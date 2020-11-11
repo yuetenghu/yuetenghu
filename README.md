@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, my name is Yueteng
+
+I'm a software engineer with ~4.5 years' experience.
+
+Now I'm on my way to complete a Master's in Computer Science at Cornell.
+
+I’m looking for opportunities as a software development engineer starting in May 2021.
+
+Thanks for visiting ;)
 
 <!--
 **yuetenghu/yuetenghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
